@@ -6,7 +6,7 @@ Started as an entry in a lock-screen wallpaper contest, built with Google Gemini
 
 ![Phone view](docs/phone.png)
 
-**Live demo:** https://rbn2003.github.io/graduation_gp/
+**Live demo:** https://rbn2003.github.io/Graduation_gp/
 
 ## Features
 
