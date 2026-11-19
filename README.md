@@ -34,8 +34,8 @@ Edit the `STINTS`, `MILESTONES`, `START`, and `GRAD` constants in the `<script>`
 ## Run locally
 
 ```bash
-git clone https://github.com/rbn2003/graduation_gp.git
-cd graduation-gp
+git clone https://github.com/rbn2003/Graduation_gp.git
+cd Graduation-gp
 open index.html
 ```
 
