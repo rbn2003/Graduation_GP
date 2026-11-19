@@ -52,3 +52,5 @@ Repo **Settings → Pages → Deploy from branch → main / root**.
 ## License
 
 MIT
+
+- Built by RABIN POUDEL for Your Deadline, Your Design: Create a Countdown Lock Screen (Google AI x Handshake) 
