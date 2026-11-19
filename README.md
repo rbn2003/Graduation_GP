@@ -6,7 +6,7 @@ Started as an entry in a lock-screen wallpaper contest, built with Google Gemini
 
 ![Phone view](docs/phone.png)
 
-**Live demo:** https://YOUR-USERNAME.github.io/graduation-gp/
+**Live demo:** https://rbn2003.github.io/graduation_gp/
 
 ## Features
 
@@ -34,7 +34,7 @@ Edit the `STINTS`, `MILESTONES`, `START`, and `GRAD` constants in the `<script>`
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/graduation-gp.git
+git clone https://github.com/rbn2003/graduation_gp.git
 cd graduation-gp
 open index.html
 ```
