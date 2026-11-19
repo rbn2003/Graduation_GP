@@ -4,9 +4,9 @@ A live Formula 1 themed lock-screen countdown to graduation (June 14, 2027). Eac
 
 Started as an entry in a lock-screen wallpaper contest, built with Google Gemini, then refined into a phone-first web app.
 
-![Phone view](docs/phone.png)
+![Phone view](phone.png)
 
-**Live demo:** https://rbn2003.github.io/Graduation_gp/
+**Live demo:** https://rbn2003.github.io/Graduation_GP/
 
 ## Features
 
